@@ -1,0 +1,13 @@
+﻿
+    .cssMain
+{
+    margin:auto;
+    width:50%;
+    height:100px;
+    background-color:blue;
+    color:red;
+}
+table.borderless td,table.borderless th{
+     border: none !important;
+}
+
